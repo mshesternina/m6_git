@@ -1,0 +1,17 @@
+mkdir new_repo
+cd mkdir_repo
+git init
+
+git config --global user.name ''
+git config --global user.email ''
+git config --list --show-origin
+
+touch task1.1
+копируем текст в этот файл
+git status
+создаем .gitignore
+вписываем в него файл task1.1
+git status
+
+touch task1.1_answer
+добавляем введенные команды
