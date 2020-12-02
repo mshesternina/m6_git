@@ -27,3 +27,7 @@ git add fileB
 git commit -m ‘название коммита’
 git push
 
+любая строка в файл fileA
+git diff
+rm fileB
+добавить команды в task1.1_answer
