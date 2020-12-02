@@ -15,3 +15,15 @@ git status
 
 touch task1.1_answer
 добавляем введенные команды
+
+touch fileA
+touch fileB
+любая строка в файл fileA
+любая строка в файл fileВ
+добавить команды в task1.1_answer
+git status
+git add fileA
+git add fileB
+git commit -m ‘название коммита’
+git push
+
