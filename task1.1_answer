@@ -31,3 +31,10 @@ git push
 git diff
 rm fileB
 добавить команды в task1.1_answer
+
+git checkout -b feature1
+строка в fileB
+строки в task1.1_answer
+git add -A
+git commit -m ‘название коммита’
+git push
