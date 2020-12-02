@@ -43,3 +43,17 @@ git push --set-upstream origin feature2
 git log --graph --oneline
 git branch -d feature1
 git push origin --delete feature1
+git checkout -b feature1
+строка в fileB
+строки в task1.1_answer
+git add -A
+git commit -m ‘название коммита’
+git push
+
+git checkout master
+git pull
+git merge origin/feature1
+строки в task1.1_answer
+git add -A
+git commit -m ‘название коммита’
+git push
