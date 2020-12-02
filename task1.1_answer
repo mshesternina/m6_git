@@ -31,3 +31,11 @@ git push
 git diff
 rm fileB
 добавить команды в task1.1_answer
+
+git checkout feature2
+git branch  (посмотреть локально)
+git branch -a (посмотреть в центральном репозитории)
+строки в task1.1_answer
+git add -A
+git commit -m ‘название коммита’
+git push --set-upstream origin feature2
