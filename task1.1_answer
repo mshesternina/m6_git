@@ -39,3 +39,7 @@ git branch -a (посмотреть в центральном репозитор
 git add -A
 git commit -m ‘название коммита’
 git push --set-upstream origin feature2
+
+git log --graph --oneline
+git branch -d feature1
+git push origin --delete feature1
